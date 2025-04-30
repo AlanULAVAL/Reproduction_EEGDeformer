@@ -1,0 +1,4 @@
+
+2023-12-11 15:07:12.049422
+0)ROOT:D:\DingYi\Project\EmotionProfiling\data\..;
+1)dataset:FATIG;
